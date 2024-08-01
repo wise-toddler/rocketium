@@ -20,8 +20,8 @@ Follow these steps to set up and run the project locally:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/wise-toddler/ROCKETIUM.git
-   cd ROCKETIUM
+   git clone https://github.com/wise-toddler/rocketium.git
+   cd rocketium
    ```
 
 2. **Install Dependencies**
