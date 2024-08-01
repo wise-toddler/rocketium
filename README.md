@@ -15,11 +15,6 @@ This project sets up a Node.js server using Express to serve dummy JSON data. It
 
 Follow these steps to set up and run the project locally:
 
-### Prerequisites
-
-- [Node.js](https://nodejs.org/) (version 16 or higher)
-- [npm](https://www.npmjs.com/) (comes with Node.js)
-
 ### Installation
 
 1. **Clone the Repository**
